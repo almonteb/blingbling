@@ -1,6 +1,6 @@
 local table = table
 local awful = require("awful")
-local awesome = require("awesome")
+--local awesome = require("awesome")
 ---Three menu launchers for main, reboot and shutdown your system.
 
 local shutdown_cmd= 'systemctl poweroff'
